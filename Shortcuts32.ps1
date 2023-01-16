@@ -1,7 +1,7 @@
 $programs = @{
     "Access"                   = "C:\C:\Program Files (x86)\Microsoft Office\root\Office16\MSACCESS.EXE"
     "Adobe Acrobat"            = "C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe"
-    "Adobe Reader DC"          = "C:\\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"
+    "Adobe Reader DC"          = "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"
     "Excel"                    = "C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE"
     "Firefox Private Browsing" = "C:\Program Files\Mozilla Firefox\private_browsing.exe"
     "Firefox"                  = "C:\Program Files\Mozilla Firefox\firefox.exe"
@@ -17,8 +17,8 @@ $programs = @{
     "TeamViewer"               = "C:\Program Files\TeamViewer\TeamViewer.exe"
     "Visio"                    = "C:\Program Files (x86)\Microsoft Office\root\Office16\VISIO.EXE"
     "Word"                     = "C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.exe"
-    "Cisco AnyConnect"         = "C:\\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client\vpnui.exe"
-    "Cisco Jabber"             = "C:\\Program Files (x86)\Cisco Systems\Cisco Jabber\CiscoJabber.exe"
+    "Cisco AnyConnect"         = "C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client\vpnui.exe"
+    "Cisco Jabber"             = "C:\Program Files (x86)\Cisco Systems\Cisco Jabber\CiscoJabber.exe"
     "Citrix Workspace"         = "C:\Program Files (x86)\Citrix\ICA Client\SelfServicePlugin\SelfService.exe"
 
     
