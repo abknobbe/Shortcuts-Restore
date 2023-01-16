@@ -1,5 +1,5 @@
 $programs = @{
-    "Access"                   = "C:\C:\Program Files (x86)\Microsoft Office\root\Office16\MSACCESS.EXE"
+    "Access"                   = "C:\Program Files (x86)\Microsoft Office\root\Office16\MSACCESS.EXE"
     "Adobe Acrobat"            = "C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe"
     "Adobe Reader DC"          = "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"
     "Excel"                    = "C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE"
